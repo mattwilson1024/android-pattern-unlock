@@ -6,9 +6,13 @@
 #
 # This script sends simulated touch input over ADB for remotely swiping on Android's pattern lockscreen.
 # This allows you to unlock the device even if the touch screen is broken.
+#
 # Note: You must have USD debugging enabled on your device for this script to work (in the developer options).
 # This script will not work unless this option is enabled. I recommend turning it on to make life easier if you drop your phone.
 # Note: The device does not need to be rooted for this method to work.
+#
+# You need to have adb on your PATH to run this script.
+# E.g. on Mac add to ~/.bash_profile: export PATH="/Users/username/Library/Android/sdk/platform-tools:$PATH"
 #
 # Customise the variables in the top section of the script with your phone's unlock code and coordinates
 #
