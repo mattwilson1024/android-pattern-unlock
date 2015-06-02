@@ -32,13 +32,13 @@
 
 PATTERN="1 2 3 6 5 4 7 8 9" # The unlock pattern to draw, space seperated
 
-COL_1=200                   # X coordinate of column 1 (in pixels)
-COL_2=450                   # X coordinate of column 2 (in pixels)
-COL_3=600                   # X coordinate of column 3 (in pixels)
-				
-ROW_1=600                   # Y coordinate of row 1 (in pixels)
-ROW_2=800                   # Y coordinate of row 2 (in pixels)
-ROW_3=1000                  # Y coordinate of row 3 (in pixels)
+COL_1=166                   # X coordinate of column 1 (in pixels)
+COL_2=384                   # X coordinate of column 2 (in pixels)
+COL_3=576                   # X coordinate of column 3 (in pixels)
+
+ROW_1=553                   # Y coordinate of row 1 (in pixels)
+ROW_2=738                   # Y coordinate of row 2 (in pixels)
+ROW_3=984                   # Y coordinate of row 3 (in pixels)
 
 MULTIPLIER=2                # Multiplication factor for coordinates. For Nexus 4, set this to 2. For low res phones such as
                             # Samsung Galaxy S2, set this to 1. Experiment with this value if you can't see anything happening.
