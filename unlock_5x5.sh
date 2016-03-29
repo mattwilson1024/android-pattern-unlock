@@ -40,8 +40,6 @@
 
 PATTERN="1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25" # The unlock pattern to draw, space seperated
 
-#PATTERN="1 5 7 9 25" # The unlock pattern to draw, space seperated
-
 COL_1=138                   # X coordinate of column 1 (in pixels)
 COL_2=260                   # X coordinate of column 2 (in pixels)
 COL_3=382                   # X coordinate of column 3 (in pixels)
