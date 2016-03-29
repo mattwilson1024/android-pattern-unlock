@@ -1,7 +1,0 @@
-!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
-FinishTouch	/home/o00o/Dokumente/Code/android/android-pattern-unlock/unlock_5x5.sh	/^FinishTouch() {$/;"	f	language:Sh
-SendCoordinates	/home/o00o/Dokumente/Code/android/android-pattern-unlock/unlock_5x5.sh	/^SendCoordinates () {$/;"	f	language:Sh
-StartTouch	/home/o00o/Dokumente/Code/android/android-pattern-unlock/unlock_5x5.sh	/^StartTouch() {$/;"	f	language:Sh
-SwipePattern	/home/o00o/Dokumente/Code/android/android-pattern-unlock/unlock_5x5.sh	/^SwipePattern() {$/;"	f	language:Sh
-SwipeUp	/home/o00o/Dokumente/Code/android/android-pattern-unlock/unlock_5x5.sh	/^SwipeUp() {$/;"	f	language:Sh
-WakeScreen	/home/o00o/Dokumente/Code/android/android-pattern-unlock/unlock_5x5.sh	/^WakeScreen() {$/;"	f	language:Sh
