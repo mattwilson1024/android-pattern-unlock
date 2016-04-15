@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # Android pattern unlock
 # Author: Matt Wilson
